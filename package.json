@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^7.21.0",
+    "codeceptjs": "^3.3.4",
+    "webdriverio": "^6.12.1"
+  }
+}
